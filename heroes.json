@@ -13,12 +13,6 @@
       "element": "water"
     },
     {
-      "id": "d6929169-55be-4222-b480-d738346dc322",
-      "name": "ШИНЫ",
-      "description": "wqe",
-      "element": "wind"
-    },
-    {
       "id": "55e66d22-39af-4ecf-8004-ca24c242188c",
       "name": "Гаджиев Агнил Нариман-Оглы",
       "description": "dsw",
@@ -28,6 +22,12 @@
       "id": "955bbd84-699e-4bd6-a7dd-38d8a6c401f8",
       "name": "Мамедов Нариман Гюлахмед Оглы",
       "description": "4564565",
+      "element": "fire"
+    },
+    {
+      "id": "fbbbbd9b-856a-4495-9ecc-16d93e72103b",
+      "name": "Serhio",
+      "description": "23423",
       "element": "fire"
     }
   ],
