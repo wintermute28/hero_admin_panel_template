@@ -13,28 +13,16 @@
       "element": "water"
     },
     {
-      "id": "55e66d22-39af-4ecf-8004-ca24c242188c",
-      "name": "Гаджиев Агнил Нариман-Оглы",
-      "description": "dsw",
-      "element": "earth"
-    },
-    {
-      "id": "955bbd84-699e-4bd6-a7dd-38d8a6c401f8",
-      "name": "Мамедов Нариман Гюлахмед Оглы",
-      "description": "4564565",
-      "element": "fire"
-    },
-    {
-      "id": "fbbbbd9b-856a-4495-9ecc-16d93e72103b",
-      "name": "Serhio",
-      "description": "23423",
-      "element": "fire"
-    },
-    {
-      "id": "869215c0-604e-4ef4-a01a-b5c65e89bb4a",
-      "name": "Мамедов Нариман Гюлахмед Оглы",
-      "description": "wew",
+      "id": "4452345c-fb31-4936-b642-863ea8e9b9b1",
+      "name": "Стервятник",
+      "description": "Летать",
       "element": "wind"
+    },
+    {
+      "id": "9a10a181-c1f3-4594-b8c3-46468126c8d9",
+      "name": "НЕчто",
+      "description": "Крушить",
+      "element": "earth"
     }
   ],
   "filters": [
